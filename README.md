@@ -11,7 +11,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats-j05el383g.vercel.app/api/?username=sleeply&count_private=true&include_all_commits=true&theme=github_dark&show_icons=true&&hide=stars,issues,)
 
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Sidko)](https://github.com/anuraghazra/github-readme-stats&show_icons=true)
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sleeply)](https://github.com/anuraghazra/github-readme-stats&show_icons=true)
 
 ## Contact
 * [Telegram](https://t.me/Samidarekun)
