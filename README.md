@@ -7,9 +7,11 @@
 
 <!-- ![Metrics](https://metrics.lecoq.io/sleeply?template=classic&isocalendar=1&isocalendar.duration=full-year) -->
 
-![sleeply's github stats](https://github-readme-stats.vercel.app/api?username=sleeply&theme_github_dark&show_icons=true&include_all_commits=true&count_private=true&line_height=28) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sleeply&layout=compact&langs_count=12)
+[![wakatime](https://wakatime.com/badge/user/4d3b6291-3912-4162-8f94-f4bcd405e6d4.svg)](https://wakatime.com/@4d3b6291-3912-4162-8f94-f4bcd405e6d4)
 
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sleeply)](https://github.com/anuraghazra/github-readme-stats&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats-j05el383g.vercel.app/api/?username=sleeply&count_private=true&include_all_commits=true&theme=github_dark&show_icons=true&&hide=stars,issues,)
+
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Sheroff)](https://github.com/anuraghazra/github-readme-stats&show_icons=true)
 
 ## Contact
 * [Telegram](https://t.me/Samidarekun)
